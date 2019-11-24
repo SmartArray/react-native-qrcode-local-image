@@ -30,7 +30,7 @@ public class RCTQRCodeLocalImage extends ReactContextBaseJavaModule {
 
     public RCTQRCodeLocalImage(ReactApplicationContext reactContext) {
         super(reactContext);
-        this.context = context;
+        this.context = reactContext;
     }
 
     @Override
