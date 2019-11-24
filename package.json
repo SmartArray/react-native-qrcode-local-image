@@ -1,6 +1,6 @@
 {
-    "name": "@remobile/react-native-qrcode-local-image",
-    "version": "1.0.4",
+    "name": "SmartArray/react-native-qrcode-local-image",
+    "version": "1.0.5",
     "qrcode-local-imagecription": "A local qrcode image parse for react-native",
     "main": "index.js",
     "author": {
@@ -18,12 +18,12 @@
         "remobile",
         "mobile"
     ],
-    "homepage": "https://github.com/remobile/react-native-qrcode-local-image",
+    "homepage": "https://github.com/SmartArray/react-native-qrcode-local-image",
     "bugs": {
-        "url": "https://github.com/remobile/react-native-qrcode-local-image/issues"
+        "url": "https://github.com/SmartArray/react-native-qrcode-local-image/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/remobile/react-native-qrcode-local-image.git"
+        "url": "git://github.com/SmartArray/react-native-qrcode-local-image.git"
     }
 }
